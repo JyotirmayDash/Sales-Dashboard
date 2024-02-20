@@ -1,9 +1,9 @@
 # Power BI AdventureWorksLT Sales Report
-Overview
+#### Overview
 This repository contains a Power BI report developed as part of a Module 5 assignment. The report is built using Power BI Desktop and connects to the AdventureWorksLT database. The report showcases data shaping, combining, and various visualizations to analyze sales-related information.
 
 # Instructions
-Connecting to Data
+##### Connecting to Data
 Open Power BI Desktop.
 Connect to the AdventureWorksLT database using the provided queries in Labexercise1.SQL.
 Save the file as "AdventureWorksLT sales 5."
